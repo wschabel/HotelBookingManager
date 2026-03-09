@@ -1,0 +1,16 @@
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\obj\Debug\net10.0-windows\HotelBookingManager1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\obj\Debug\net10.0-windows\HotelBookingManager1.AssemblyInfoInputs.cache
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\obj\Debug\net10.0-windows\HotelBookingManager1.AssemblyInfo.cs
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\obj\Debug\net10.0-windows\HotelBookingManager1.csproj.CoreCompileInputs.cache
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\obj\Debug\net10.0-windows\HotelBookingManager.MainForm.resources
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\obj\Debug\net10.0-windows\HotelBookingManager1.csproj.GenerateResource.cache
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\bin\Debug\net10.0-windows\HotelBookingManager1.exe
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\bin\Debug\net10.0-windows\HotelBookingManager1.deps.json
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\bin\Debug\net10.0-windows\HotelBookingManager1.runtimeconfig.json
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\bin\Debug\net10.0-windows\HotelBookingManager1.dll
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\bin\Debug\net10.0-windows\HotelBookingManager1.pdb
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\obj\Debug\net10.0-windows\HotelBookingManager1.dll
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\obj\Debug\net10.0-windows\refint\HotelBookingManager1.dll
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\obj\Debug\net10.0-windows\HotelBookingManager1.pdb
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\obj\Debug\net10.0-windows\HotelBookingManager1.genruntimeconfig.cache
+C:\Users\billm\source\repos\HotelBookingManager1\HotelBookingManager1\obj\Debug\net10.0-windows\ref\HotelBookingManager1.dll
